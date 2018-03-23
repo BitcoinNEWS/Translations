@@ -1,2 +1,2 @@
 # Translations
-Language translations of BitcoinNEWS.blog
+Language translations for BitcoinNEWS.blog
